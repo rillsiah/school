@@ -16,9 +16,5 @@
 }
 
 .table-school tr:nth-child(odd) {
-    background: #fafafa;
-}
-
-.table-school tr:nth-child(even) {
     background: #f0f0f0;
 }

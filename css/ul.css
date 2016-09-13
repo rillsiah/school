@@ -1,0 +1,26 @@
+.ul-school {
+    list-style-type: none;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+
+    width: 10%;
+    max-width: 100%;
+}
+
+.ul-school li a {
+    display: block;
+    padding: 16px;
+
+    text-align: center;
+    text-decoration: none;
+
+    background: #1a1110;
+    color: #f0f0f0;
+}
+
+.ul-school li a:hover {
+    background: #0059b2;
+    color: #fafafa;
+}
