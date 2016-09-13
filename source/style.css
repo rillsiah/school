@@ -33,7 +33,9 @@ code {
     background-color: #222222;
 }
 
-/*USER SOURCE*/
+abbr {
+    cursor: help;
+}
 
 h4 {
     color: #545454;
@@ -44,13 +46,9 @@ p {
 }
 
 ins {
-    color: #232b2b;
+    color: #545454;
 }
 
 sup {
     font-size: 12px;
-}
-
-abbr {
-    cursor: help;
 }
