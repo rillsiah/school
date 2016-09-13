@@ -36,6 +36,21 @@ code {
 /*USER SOURCE*/
 
 h4 {
-    font-family: monospace;
     color: #545454;
+}
+
+p {
+    color: #1a1110;
+}
+
+ins {
+    color: #232b2b;
+}
+
+sup {
+    font-size: 12px;
+}
+
+abbr {
+    cursor: help;
 }
