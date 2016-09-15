@@ -10,7 +10,7 @@
 }
 
 .ul-school li a {
-    display: block;
+    display: inherit;
     padding: 16px;
 
     text-align: center;

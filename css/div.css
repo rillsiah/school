@@ -1,0 +1,10 @@
+.div-school {
+    margin: 2em;
+    padding: 2em;
+
+    background: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,0.2);
+
+    text-align: left;
+    line-height: 1.8;
+}

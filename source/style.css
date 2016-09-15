@@ -33,22 +33,21 @@ code {
     background-color: #222222;
 }
 
-/*EXAMPLE*/
+mark {
+    background: transparent;
+    border-bottom: 2px solid #ba1000;
+}
+
+b {
+    color: #545454;
+}
 
 abbr {
     cursor: help;
 }
 
-h4 {
-    color: #545454;
-}
-
-p {
-    color: #1a1110;
-}
-
 ins {
-    color: #545454;
+    color: #1a1110;
 }
 
 sup {
